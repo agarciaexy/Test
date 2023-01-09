@@ -14,7 +14,7 @@ import com.example.test.databinding.FragmentFirstBinding;
 public class FirstFragment extends Fragment {
 
     private FragmentFirstBinding binding;
-    //Completado el fragment uno
+    //Completado el fragment uno v2
 
     @Override
     public View onCreateView(
